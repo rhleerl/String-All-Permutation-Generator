@@ -1,0 +1,1 @@
+Generates all possible permutations in the given string and substrings within.
